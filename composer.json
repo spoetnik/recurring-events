@@ -1,15 +1,15 @@
 {
-  "name": "spoetnik/RecurringEvents",
+  "name": "spoetnik/recurring-events",
   "type": "pw-module",
   "description": "Create Recurring events. Recurrences are calculated, and only created when needed. (https://medium.com/@ScullWM/design-and-manage-recurring-events-fb43676e711a)",
   "keywords": [ "events", "recurrence", "recurring", "event", "processwire" ],
-  "homepage": "https://github.com/spoetnik/RecurringEvents",
+  "homepage": "https://github.com/spoetnik/recurring-events",
   "license": "GNU/GPL v2",
   "authors": [
     {
-      "name": "Enter later",
-      "email": "Enter later",
-      "homepage": "Enter later",
+      "name": "Martijn de Geus",
+      "email": "martijn@side-shore.nl",
+      "homepage": "https://side-shore.nl",
       "role": "Developer"
     }
   ],
