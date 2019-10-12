@@ -4,7 +4,7 @@
   "description": "Create Recurring events. Recurrences are calculated, and only created when needed. (https://medium.com/@ScullWM/design-and-manage-recurring-events-fb43676e711a)",
   "keywords": [ "events", "recurrence", "recurring", "event", "processwire" ],
   "homepage": "https://github.com/spoetnik/recurring-events",
-  "license": "GNU/GPL v2",
+  "license": "MIT",
   "authors": [
     {
       "name": "Martijn de Geus",
